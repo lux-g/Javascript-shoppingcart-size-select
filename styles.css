@@ -1,0 +1,20 @@
+.select-size {
+    margin: 100px;
+}
+.select-size input {
+    display: none;
+}
+label {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    border: 1px solid#ddd;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.active {
+    border: 1px solid black;
+}
